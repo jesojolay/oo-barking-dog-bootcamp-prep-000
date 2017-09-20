@@ -12,4 +12,8 @@ class Dog
         @name
     end
 
+    def bark
+        puts "Woof!"
+    end
+
 end
